@@ -1,0 +1,9 @@
+E:\Bitm Practice\ShowArrayApp\ShowArrayApp\bin\Debug\ShowArrayApp.exe.config
+E:\Bitm Practice\ShowArrayApp\ShowArrayApp\bin\Debug\ShowArrayApp.exe
+E:\Bitm Practice\ShowArrayApp\ShowArrayApp\bin\Debug\ShowArrayApp.pdb
+E:\Bitm Practice\ShowArrayApp\ShowArrayApp\obj\Debug\ShowArrayApp.csprojResolveAssemblyReference.cache
+E:\Bitm Practice\ShowArrayApp\ShowArrayApp\obj\Debug\ShowArrayApp.showApp.resources
+E:\Bitm Practice\ShowArrayApp\ShowArrayApp\obj\Debug\ShowArrayApp.Properties.Resources.resources
+E:\Bitm Practice\ShowArrayApp\ShowArrayApp\obj\Debug\ShowArrayApp.csproj.GenerateResource.Cache
+E:\Bitm Practice\ShowArrayApp\ShowArrayApp\obj\Debug\ShowArrayApp.exe
+E:\Bitm Practice\ShowArrayApp\ShowArrayApp\obj\Debug\ShowArrayApp.pdb
